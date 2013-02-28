@@ -1,4 +1,11 @@
 Webdev::Application.routes.draw do
+  root to: 'static_pages#home'
+
+  match '/resources',    to: 'static_pages#resources'
+  match '/about',   to: 'static_pages#about'
+  match '/syllabus', to: 'static_pages#syllabus' 
+
+
   get "static_pages/home"
   get "static_pages/about"
 
