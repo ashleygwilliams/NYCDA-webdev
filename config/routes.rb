@@ -4,11 +4,13 @@ Webdev::Application.routes.draw do
   match '/resources',    to: 'static_pages#resources'
   match '/about',   to: 'static_pages#about'
   match '/syllabus', to: 'static_pages#syllabus' 
+  match '/resources', to: 'static_pages#resources' 
 
 
   get "static_pages/home"
   get "static_pages/about"
   get "static_pages/syllabus"
+  get "static_pages/resources"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
