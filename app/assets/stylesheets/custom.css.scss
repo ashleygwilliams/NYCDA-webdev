@@ -84,20 +84,32 @@ p {
   background-color: #FF0079;
 }
 
-.yellow {
-  background-color: #FFD300;
+.pink {
+  background-color: #FF0079;
+}
+
+.yellow, .blue, .pink {
   border-radius: 6px;
   padding: 30px;
   font-family: 'Lato';
+  margin: 10px 0;
+}
+
+.yellow {
+  background-color: #FFD300;
 }
 
 .blue {
   background-color: #2AC6EF;
-  border-radius: 6px;
-  padding: 30px;
-  font-family: 'Lato';
 }
 
 .products {
   padding: 10px;
+}
+
+.media-list {
+  list-style-type: none;
+  &:hover {
+    font-style: none;
+  }
 }
