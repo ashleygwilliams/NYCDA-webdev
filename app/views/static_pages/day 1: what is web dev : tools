@@ -1,0 +1,47 @@
+day 1: what is web dev / tools
+day 2: css/html/js
+
+day 3: wireframes, workflows, and creative suite (MOSTLY HTML)
+day 4: layout / navigation dev
+
+day 5: reponsive design, multi-device design, what is UX (MOSTLY CSS)
+day 6: resets and normalizing, browser flags 
+
+day 7: using data (MOSTLY JS)
+day 8: forms, xml, php, simple landing page form (coming soon page)
+
+day 9: review, inefficiencies?, client/server, preprocessors
+day 10: command line, github, setting up your environment, first repo
+
+day 11: what is programming? intro to control flow structures, logic
+day 12: ruby, fizzbuzz
+
+day 13: intro to DSLs, model/view/controller
+day 14: ruby gems, sintra, make a single serving website, heroku
+
+day 15: html/css preprocessors, embedded ruby, randomness, layouts
+day 16: writing haml and sass, single serving website plus
+
+day 17: review of DSLs, MVCs, intro to rails: what is it
+day 18: get a rails scaffold app up on heroku
+
+day 19: databases, data and forms
+day 20: databases, data, and forms
+
+day 21: activerecord, migrations, agile development methodologies
+day 22: databases, data, and forms
+
+day 23: APIs, OAuth
+day 24: use Singly API to create a login, and use social data
+
+day 25: dynamic data, performance, refactoring
+day 26: begin personal projects
+
+day 27:	how to critique a web app
+day 28: work session
+
+day 29:	critiques
+day 30: work session
+
+day 31: work session
+day 32: presentations

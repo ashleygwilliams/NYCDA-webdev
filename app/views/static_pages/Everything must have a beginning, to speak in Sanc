@@ -1,0 +1,10 @@
+Everything must have a beginning, to speak in Sanchean phrase; and that beginning must be linked to something that went before. The Hindus give the world an elephant to support it, but they make the elephant stand upon a tortoise. Invention, it must be humbly admitted, does not consist in creating out of a void, but out of chaos; the materials must, in the first place, be afforded: it can give form to dark, shapeless substances but cannot bring into being the substance itself. In all matters of discovery and invention, even of those that appertain to the imagination, we are continually reminded of the story of Columbus and his egg. Invention consists of the capacity of seizing on the capabilities of a subject and in the power of molding and fashioning ideas suggested by it.
+
+JAVASCRIPT
+Javascript is used to create *mostly* client-side interactions
+Javascript has many libraries and frameworks. Some common ones are jQuery, DoJo, Prototype, D3, angular, backbone, node, ember, AJAX
+Javascript, like CSS, allows you to target specific things in the DOM and change their presence/position or attributes in the DOM (via HTML) or their presentation via (CSS)
+We will use AJAX and jQuery in this class
+
+e.g. 
+$("p.important:hover").effect('highlight')
